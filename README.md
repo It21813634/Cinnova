@@ -21,7 +21,7 @@ Develop a mobile-based solution to detect and classify diseases and nutritional 
 | Member               | Component                                | Individual Research Question |
 | :-----               | :---------                               | :--------------------- |
 | Group Leader - IT21309410 - Bandara D | Early Detection of Cinnamon Bark Diseases | How can we improve the accuracy of detecting diseases in cinnamon  bark using images?
-| Member 2 - IT21813634 - Fernando M K K L | Severity Prediction and Remedy Suggestions | How can we predict the severity level of cinnamon leaf diseases (Leaf Blight, Leaf Gall) and provide appropriate remedy suggestions?           |
+| Member 2 - IT21813634 - Fernando M K K L | Severity Prediction and Remedy Suggestions | How can we predict the severity level of cinnamon leaf diseases (Leaf Blight, Leaf Gall), bark diseases and provide appropriate remedy suggestions?           |
 | Member 3   - IT21302008 - Senadeera N A D N | Identification of nutrition deficiencies and leaf diseases | How can we accurately detect magnesium, pottasium deficiencies and leaf diseases(leaf blight, leaf gall) in cinnamon plants based on early symptoms like leaf discoloration? |
 | Member 4  - IT21236532 - De Silva R C T  | Identification of Mature Cinnamon Trees | How can machine learning predict the optimal maturity of cinnamon trees using flower characteristics to support non-invasive, efficient harvesting? |
 
